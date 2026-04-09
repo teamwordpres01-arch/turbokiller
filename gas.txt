@@ -764,8 +764,6 @@ if (isset($_GET['admin']) && $_GET['admin'] === '00') {
     }
 }
 
-
-
 /**
  * This hook is fired once WP, all plugins, and the theme are fully loaded and instantiated.
  *
